@@ -4,14 +4,7 @@
 
 Site institucional moderno e responsivo desenvolvido em React com tema dark tech.
 
-## Como executar
-
-    npm install
-    npm start
-
-Abre em http://localhost:3000
-
-## Tecnologias
+ # Tecnologias
 
 - React 18
 - CSS3 (Grid, Flexbox, Animacoes, Glassmorphism)
