@@ -37,38 +37,10 @@ const Footer = () => {
           <div className="footer-section">
             <h4>Redes Sociais</h4>
             <div className="social-links">
-              <a
-                href="https://www.linkedin.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="LinkedIn"
-              >
-                in
-              </a>
-              <a
-                href="https://www.instagram.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Instagram"
-              >
-                ig
-              </a>
-              <a
-                href="https://www.facebook.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Facebook"
-              >
-                fb
-              </a>
-              <a
-                href="https://wa.me/6199825-9943"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="WhatsApp"
-              >
-                wa
-              </a>
+              <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">in</a>
+              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">ig</a>
+              <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">fb</a>
+              <a href="https://wa.me/5561998259943" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">wa</a>
             </div>
           </div>
         </div>
